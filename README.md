@@ -24,10 +24,11 @@ ADE (Administración y Dirección de Empresas): * Ivan Balañá
 Ivan Heras Zafra
 
 🛠️ Tecnologías utilizadas
-Lenguaje: [Añade aquí el lenguaje, ej: Python / JavaScript]
+Lenguaje: [HTML,CSS,JavaScript]
 
 Algoritmia: Optimización de rutas y gestión de inventario.
 
 Interfaz: MVP enfocado en la experiencia de usuario (UX) y fidelización.
 
 Proyecto desarrollado en 48 horas para el II Hackaton URJC.
+
